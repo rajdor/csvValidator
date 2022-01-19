@@ -1,0 +1,93 @@
+{
+   "loglevel":"INFO"
+  ,"csvspec": {
+        "allow_empty":false
+       ,"uniqueness" : ["2-alpha code"]
+       ,"dialect" : {
+            "delimeter": ","
+            ,"doublequote": false
+            ,"escapechar": null
+            ,"lineterminator": "'\\r\\n'"
+            ,"quotechar": "\""
+            ,"quoting": 0
+            ,"skipinitialspace": false
+            ,"strict": null
+            ,"has_header": true
+            ,"encoding": "UTF-8-SIG"
+       }
+       ,"columns": [
+                     {"colorder": "0"
+                    ,"name"  : "CountryNo"
+                    ,"type"  : "integer"
+                    ,"allow_blank" : false
+                    ,"allow_null"  : false
+                    ,"null_value"  : null
+                    ,"max_value"   : null
+                    ,"max_len"     : null
+                    }
+                   ,{"colorder": "1"
+                    ,"name"  : "Country Code"
+                    ,"type"  : "string"
+                    ,"allow_blank" : false
+                    ,"allow_null"  : false
+                    ,"null_value"  : null
+                    ,"max_value"   : null
+                    ,"max_len"     : 11                    
+                    }
+                   ,{"colorder": "2"
+                    ,"name"  : "Short Name"
+                    ,"type"  : "string"
+                    ,"allow_blank" : false
+                    ,"allow_null"  : false
+                    ,"null_value"  : null                    
+                    ,"max_value"   : null
+                    ,"max_len"     : null
+                   }
+                   ,{"colorder": "3"
+                    ,"name"  : "Table Name"
+                    ,"type"  : "string"
+                    ,"allow_blank" : false
+                    ,"allow_null"  : false
+                    ,"null_value"  : null                    
+                    ,"max_value"   : null
+                    ,"max_len"     : null
+                   }
+                   ,{"colorder": "4"
+                    ,"name"  : "Long Name"
+                    ,"type"  : "string"
+                    ,"allow_blank" : true
+                    ,"allow_null"  : false
+                    ,"null_value"  : null
+                    ,"max_value"   : null
+                    ,"max_len"     : null
+                   }
+                   ,{"colorder": "5"
+                    ,"name"  : "2-alpha code"
+                    ,"type"  : "string"
+                    ,"allow_blank" : false
+                    ,"allow_null"  : false
+                    ,"null_value"  : null
+                    ,"max_value"   : null
+                    ,"max_len"     : null
+                   }
+                   ,{"colorder": "6"
+                    ,"name"  : "Currency Unit"
+                    ,"type"  : "string"
+                    ,"allow_blank" : true
+                    ,"allow_null"  : false
+                    ,"null_value"  : null                    
+                    ,"max_value"   : null
+                    ,"max_len"     : null
+                   }
+                   ,{"colorder": "7"
+                    ,"name"  : "Special Notes"
+                    ,"type"  : "string"
+                    ,"allow_blank" : true
+                    ,"allow_null"  : false
+                    ,"null_value"  : null                    
+                    ,"max_value"   : null
+                    ,"max_len"     : null
+                   }
+          ]
+       }
+}

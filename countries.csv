@@ -1,0 +1,275 @@
+﻿CountryNo,Country Code,Short Name,Table Name,Long Name,2-alpha code,Currency Unit,Special Notes
+1,ABW,Aruba,Aruba,Aruba,AW,Aruban florin,
+2,AFE,Africa Eastern and Southern,Africa Eastern and Southern,Africa Eastern and Southern,ZH,,"26 countries, stretching from the Red Sea in the North to the Cape of Good Hope in the South (https://www.worldbank.org/en/region/afr/eastern-and-southern-africa)"
+3,AFG,Afghanistan,Afghanistan,Islamic State of Afghanistan,AF,Afghan afghani,Fiscal year end: March 20; reporting period for national accounts data: FY.
+4,AFW,Africa Western and Central,Africa Western and Central,Africa Western and Central,ZI,,"22 countries, stretching 
+from the westernmost point of Africa, across the equator, and partly along the Atlantic Ocean till the Republic of Congo in the South (https://www.worldbank.org/en/region/afr/western-and-central-africa)"
+05,AGO,Angola,Angola,People's Republic of Angola,AO,Angolan kwanza,
+06,ALB,Albania,Albania,Republic of Albania,AL,Albanian lek,
+07,AND,Andorra,Andorra,Principality of Andorra,AD,Euro,
+08,ARB,Arab World,Arab World,Arab World,1A,,Arab World aggregate. Arab World is composed of members of the League of Arab States.
+09,ARE,United Arab Emirates,United Arab Emirates,United Arab Emirates,AE,U.A.E. dirham,
+10,ARG,Argentina,Argentina,Argentine Republic,AR,Argentine peso,
+11,ARM,Armenia,Armenia,Republic of Armenia,AM,Armenian dram,
+12,ASM,American Samoa,American Samoa,American Samoa,AS,U.S. dollar,
+13,ATG,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,AG,East Caribbean dollar,
+14,AUS,Australia,Australia,Commonwealth of Australia,AU,Australian dollar,Fiscal year end: June 30; reporting period for national accounts data: FY.
+15,AUT,Austria,Austria,Republic of Austria,AT,Euro,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 13.7603 Austrian schilling. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+16,AZE,Azerbaijan,Azerbaijan,Republic of Azerbaijan,AZ,New Azeri manat,
+17,BDI,Burundi,Burundi,Republic of Burundi,BI,Burundi franc,
+18,BEL,Belgium,Belgium,Kingdom of Belgium,BE,Euro,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 40.3399 Belgian franc. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+19,BEN,Benin,Benin,Republic of Benin,BJ,West African CFA franc,
+20,BFA,Burkina Faso,Burkina Faso,Burkina Faso,BF,West African CFA franc,
+21,BGD,Bangladesh,Bangladesh,People's Republic of Bangladesh,BD,Bangladeshi taka,Fiscal year end: June 30; reporting period for national accounts data: FY.
+22,BGR,Bulgaria,Bulgaria,Republic of Bulgaria,BG,Bulgarian lev,
+23,BHR,Bahrain,Bahrain,Kingdom of Bahrain,BH,Bahraini dinar,
+24,BHS,The Bahamas,"Bahamas, The",Commonwealth of The Bahamas,BS,Bahamian dollar,
+25,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,BA,Bosnia and Herzegovina convertible mark,
+26,BLR,Belarus,Belarus,Republic of Belarus,BY,Belarusian rubel,"Data before 2015 were adjusted to reflect the new denomination effective from July 1, 2016 (BYN), a decrease of 10,000 times (1 BYN = 10,000 BYR)"
+27,BLZ,Belize,Belize,Belize,BZ,Belize dollar,
+28,BMU,Bermuda,Bermuda,The Bermudas,BM,Bermuda dollar,
+29,BOL,Bolivia,Bolivia,Plurinational State of Bolivia,BO,Bolivian Boliviano,
+30,BRA,Brazil,Brazil,Federative Republic of Brazil,BR,Brazilian real,
+31,BRB,Barbados,Barbados,Barbados,BB,Barbados dollar,
+32,BRN,Brunei,Brunei Darussalam,Brunei Darussalam,BN,Brunei dollar,
+33,BTN,Bhutan,Bhutan,Kingdom of Bhutan,BT,Bhutanese ngultrum,
+34,BWA,Botswana,Botswana,Republic of Botswana,BW,Botswana pula,
+35,CAF,Central African Republic,Central African Republic,Central African Republic,CF,Central African CFA franc,
+36,CAN,Canada,Canada,Canada,CA,Canadian dollar,Fiscal year end: March 31; reporting period for national accounts data: CY.
+37,CEB,Central Europe and the Baltics,Central Europe and the Baltics,Central Europe and the Baltics,B8,,Central Europe and the Baltics aggregate.
+38,CHE,Switzerland,Switzerland,Switzerland,CH,Swiss franc,
+39,CHI,Channel Islands,Channel Islands,Channel Islands,,Pound sterling,
+40,CHL,Chile,Chile,Republic of Chile,CL,Chilean peso,
+41,CHN,China,China,People's Republic of China,CN,Chinese yuan,"On 1 July 1997 China resumed its exercise of sovereignty over Hong Kong; and on 20 December 1999 China resumed its exercise of sovereignty over Macao. Unless otherwise noted, data for China do not include data for Hong Kong SAR, China; Macao SAR, China; or Taiwan, China."
+42,CIV,Côte d'Ivoire,Côte d'Ivoire,Republic of Côte d'Ivoire,CI,West African CFA franc,
+43,CMR,Cameroon,Cameroon,Republic of Cameroon,CM,Central African CFA franc,
+44,COD,Dem. Rep. Congo,"Congo, Dem. Rep.",Democratic Republic of the Congo,CD,Congolese franc,
+45,COG,Congo,"Congo, Rep.",Republic of Congo,CG,Central African CFA franc,
+46,COL,Colombia,Colombia,Republic of Colombia,CO,Colombian peso,
+47,COM,Comoros,Comoros,Union of the Comoros,KM,Comorian franc,
+48,CPV,Cabo Verde,Cabo Verde,Republic of Cabo Verde,CV,Cabo Verde escudo,
+49,CRI,Costa Rica,Costa Rica,Republic of Costa Rica,CR,Costa Rican colon,
+50,CSS,Caribbean small states,Caribbean small states,Caribbean small states,S3,,
+51,CUB,Cuba,Cuba,Republic of Cuba,CU,Cuban peso,
+52,CUW,Curaçao,Curaçao,Curaçao,CW,Netherlands Antillean guilder,
+53,CYM,Cayman Islands,Cayman Islands,Cayman Islands,KY,Cayman Islands dollar,
+54,CYP,Cyprus,Cyprus,Republic of Cyprus,CY,Euro,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2008: 1 euro = 0.585274 Cyprus pounds. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries."
+55,CZE,Czech Republic,Czech Republic,Czech Republic,CZ,Czech koruna,
+56,DEU,Germany,Germany,Federal Republic of Germany,DE,Euro,
+57,DJI,Djibouti,Djibouti,Republic of Djibouti,DJ,Djibouti franc,
+58,DMA,Dominica,Dominica,Commonwealth of Dominica,DM,East Caribbean dollar,
+59,DNK,Denmark,Denmark,Kingdom of Denmark,DK,Danish krone,
+60,DOM,Dominican Republic,Dominican Republic,Dominican Republic,DO,Dominican peso,
+61,DZA,Algeria,Algeria,People's Democratic Republic of Algeria,DZ,Algerian dinar,
+62,EAP,East Asia & Pacific (excluding high income),East Asia & Pacific (excluding high income),East Asia & Pacific (excluding high income),4E,,
+63,EAR,Early-demographic dividend,Early-demographic dividend,Early-demographic dividend,V2,,Early-dividend countries are mostly lower-middle-income countries further along the fertility transition. Fertility rates have fallen below four births per woman and the working-age share of the population is likely rising considerably.
+64,EAS,East Asia & Pacific,East Asia & Pacific,East Asia & Pacific,Z4,,East Asia and Pacific regional aggregate (includes all income levels).
+65,ECA,Europe & Central Asia (excluding high income),Europe & Central Asia (excluding high income),Europe & Central Asia (excluding high income),7E,,
+66,ECS,Europe & Central Asia,Europe & Central Asia,Europe & Central Asia,Z7,,Europe and Central Asia regional aggregate (includes all income levels).
+67,ECU,Ecuador,Ecuador,Republic of Ecuador,EC,U.S. dollar,
+68,EGY,Egypt,"Egypt, Arab Rep.",Arab Republic of Egypt,EG,Egyptian pound,Fiscal year end: June 30; reporting period for national accounts data: FY for years 1980 and after. The data from 1973 to 1979 are calendar year data.
+69,EMU,Euro area,Euro area,Euro area,XC,,Euro area aggregate.
+70,ERI,Eritrea,Eritrea,State of Eritrea,ER,Eritrean nakfa,
+71,ESP,Spain,Spain,Kingdom of Spain,ES,Euro,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 166.386 Spanish peseta. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+72,EST,Estonia,Estonia,Republic of Estonia,EE,Euro,"The following irrevocable euro conversion rate entered into force on January 1, 2011: 1 euro = 15.6466 Estonian kroon. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries."
+73,ETH,Ethiopia,Ethiopia,Federal Democratic Republic of Ethiopia,ET,Ethiopian birr,Fiscal year end: July 7; reporting period for national accounts data: FY.
+74,EUU,European Union,European Union,European Union,EU,,European Union aggregate.
+75,FCS,Fragile and conflict affected situations,Fragile and conflict affected situations,Fragile and conflict affected situations,F1,,"Fragile and conflict-affected situations aggregate.
+
+Countries are distinguished based on the nature and severity of issues they face. The classification uses the following categories:
+
+- Countries with high levels of institutional and social fragility, identified based on publicly available indicators that measure the quality of policy and institutions and manifestations of fragility.
+- Countries affected by violent conflict, identified based on a threshold number of conflict-related deaths relative to the population. This category includes two sub-categories based on the intensity of violence: countries in high-intensity conflict and countries in medium-intensity conflict.
+
+For more information, please visit https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/harmonized-list-of-fragile-situations."
+076,FIN,Finland,Finland,Republic of Finland,FI,Euro,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 5.94573 Finnish markka. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+077,FJI,Fiji,Fiji,Republic of Fiji,FJ,Fijian dollar,
+078,FRA,France,France,French Republic,FR,Euro,"The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 6.55957 French franc. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+079,FRO,Faroe Islands,Faroe Islands,Faroe Islands,FO,Danish krone,
+080,FSM,Micronesia,"Micronesia, Fed. Sts.",Federated States of Micronesia,FM,U.S. dollar,"Fiscal year ends on September 30; reporting period for national accounts data: FY. Based on the Pacific and Virgin Islands Training Initiative, national accounts data have been revised."
+081,GAB,Gabon,Gabon,Gabonese Republic,GA,Central African CFA franc,
+082,GBR,United Kingdom,United Kingdom,United Kingdom of Great Britain and Northern Ireland,GB,Pound sterling,
+083,GEO,Georgia,Georgia,Georgia,GE,Georgian lari,"Includes self-governed areas only, which mostly exclude Abkhazia and South Ossetia, but small areas in Abkhazia and South Ossetia are included before 2008 or 2009 because of the changes in self-governed areas."
+084,GHA,Ghana,Ghana,Republic of Ghana,GH,New Ghanaian cedi,
+085,GIB,Gibraltar,Gibraltar,Gibraltar,GI,Gibraltar pound,
+086,GIN,Guinea,Guinea,Republic of Guinea,GN,Guinean franc,
+087,GMB,The Gambia,"Gambia, The",Republic of The Gambia,GM,Gambian dalasi,
+088,GNB,Guinea-Bissau,Guinea-Bissau,Republic of Guinea-Bissau,GW,West African CFA franc,
+089,GNQ,Equatorial Guinea,Equatorial Guinea,Republic of Equatorial Guinea,GQ,Central African CFA franc,
+090,GRC,Greece,Greece,Hellenic Republic,GR,Euro,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 340.75 Greek drachma. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+091,GRD,Grenada,Grenada,Grenada,GD,East Caribbean dollar,
+092,GRL,Greenland,Greenland,Greenland,GL,Danish krone,
+093,GTM,Guatemala,Guatemala,Republic of Guatemala,GT,Guatemalan quetzal,
+094,GUM,Guam,Guam,Guam,GU,U.S. dollar,
+095,GUY,Guyana,Guyana,Co-operative Republic of Guyana,GY,Guyana dollar,
+096,HIC,High income,High income,High income,XD,,"High income group aggregate. High-income economies are those in which 2020 GNI per capita was $12,696 or more."
+097,HKG,"Hong Kong SAR, China","Hong Kong SAR, China",Hong Kong Special Administrative Region of the People's Republic of China,HK,Hong Kong dollar,"On 1 July 1997 China resumed its exercise of sovereignty over Hong Kong. Unless otherwise noted, data for China do not include data for Hong Kong SAR, China; Macao SAR, China; or Taiwan, China. Agriculture value added includes mining and quarrying."
+098,HND,Honduras,Honduras,Republic of Honduras,HN,Honduran lempira,
+099,HPC,Heavily indebted poor countries (HIPC),Heavily indebted poor countries (HIPC),Heavily indebted poor countries (HIPC),XE,,Heavily indebted poor countries aggregate.
+100,HRV,Croatia,Croatia,Republic of Croatia,HR,Croatian kuna,
+101,HTI,Haiti,Haiti,Republic of Haiti,HT,Haitian gourde,Fiscal year end: September 30; reporting period for national accounts data: FY.
+102,HUN,Hungary,Hungary,Hungary,HU,Hungarian forint,
+103,IBD,IBRD only,IBRD only,IBRD only,XF,,IBRD only group aggregate.
+104,IBT,IDA & IBRD total,IDA & IBRD total,IDA & IBRD total,ZT,,"IDA and IBRD total group aggregate (includes IDA only, IDA blend, and IBRD only)."
+105,IDA,IDA total,IDA total,IDA total,XG,,IDA total group aggregate (includes IDA only and IDA blend).
+106,IDB,IDA blend,IDA blend,IDA blend,XH,,IDA blend group aggregate.
+107,IDN,Indonesia,Indonesia,Republic of Indonesia,ID,Indonesian rupiah,Fiscal year end: March 31; reporting period for national accounts data: CY. Data for Indonesia include Timor-Leste through 1999 unless otherwise noted.
+108,IDX,IDA only,IDA only,IDA only,XI,,IDA only group aggregate.
+109,IMN,Isle of Man,Isle of Man,Isle of Man,IM,Pound sterling,"Fiscal year end: March 31; reporting period for national account data: FY. Classification for years after 2012 was adjusted and figures were re-estimated by the World Bank, based on the detailed data published by the Cabinet Office, and are not consistent with data for 2011 and before."
+110,IND,India,India,Republic of India,IN,Indian rupee,Fiscal year end: March 31; reporting period for national accounts data: FY.
+111,IRL,Ireland,Ireland,Ireland,IE,Euro,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 0.787564 Irish pound. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+112,IRN,Iran,"Iran, Islamic Rep.",Islamic Republic of Iran,IR,Iranian rial,Fiscal year end: March 20; reporting period for national accounts data: FY.
+113,IRQ,Iraq,Iraq,Republic of Iraq,IQ,Iraqi dinar,
+114,ISL,Iceland,Iceland,Republic of Iceland,IS,Iceland krona,
+115,ISR,Israel,Israel,State of Israel,IL,Israeli new shekel,
+116,ITA,Italy,Italy,Italian Republic,IT,Euro,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 1936.27 Italian lira. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+117,JAM,Jamaica,Jamaica,Jamaica,JM,Jamaican dollar,
+118,JOR,Jordan,Jordan,Hashemite Kingdom of Jordan,JO,Jordanian dinar,
+119,JPN,Japan,Japan,Japan,JP,Japanese yen,Fiscal year end: March 31; reporting period for national accounts data: CY.
+120,KAZ,Kazakhstan,Kazakhstan,Republic of Kazakhstan,KZ,Kazakh tenge,
+121,KEN,Kenya,Kenya,Republic of Kenya,KE,Kenyan shilling,Fiscal year end: June 30; reporting period for national accounts data: CY.
+122,KGZ,Kyrgyz Republic,Kyrgyz Republic,Kyrgyz Republic,KG,Kyrgyz som,
+123,KHM,Cambodia,Cambodia,Kingdom of Cambodia,KH,Cambodian riel,
+124,KIR,Kiribati,Kiribati,Republic of Kiribati,KI,Australian dollar,
+125,KNA,St. Kitts and Nevis,St. Kitts and Nevis,St. Kitts and Nevis,KN,East Caribbean dollar,
+126,KOR,Korea,"Korea, Rep.",Republic of Korea,KR,Korean won,
+127,KWT,Kuwait,Kuwait,State of Kuwait,KW,Kuwaiti dinar,
+128,LAC,Latin America & Caribbean (excluding high income),Latin America & Caribbean (excluding high income),Latin America & Caribbean (excluding high income),XJ,,
+129,LAO,Lao PDR,Lao PDR,Lao People's Democratic Republic,LA,Lao kip,
+130,LBN,Lebanon,Lebanon,Lebanese Republic,LB,Lebanese pound,
+131,LBR,Liberia,Liberia,Republic of Liberia,LR,U.S. dollar,
+132,LBY,Libya,Libya,Socialist People's Libyan Arab Jamahiriya,LY,Libyan dinar,
+133,LCA,St. Lucia,St. Lucia,St. Lucia,LC,East Caribbean dollar,
+134,LCN,Latin America & Caribbean,Latin America & Caribbean,Latin America & Caribbean,ZJ,,
+135,LDC,Least developed countries: UN classification,Least developed countries: UN classification,Least developed countries: UN classification,XL,,
+136,LIC,Low income,Low income,Low income,XM,,"Low income group aggregate. Low-income economies are those in which 2020 GNI per capita was $1,045 or less."
+137,LIE,Liechtenstein,Liechtenstein,Principality of Liechtenstein,LI,Swiss franc,
+138,LKA,Sri Lanka,Sri Lanka,Democratic Socialist Republic of Sri Lanka,LK,Sri Lankan rupee,
+139,LMC,Lower middle income,Lower middle income,Lower middle income,XN,,"Lower middle income group aggregate. Lower-middle-income economies are those in which 2020 GNI per capita was between $1,046 and $4,095."
+140,LMY,Low & middle income,Low & middle income,Low & middle income,XO,,
+141,LSO,Lesotho,Lesotho,Kingdom of Lesotho,LS,Lesotho loti,Fiscal year end: March 31; reporting period for national accounts data: CY.
+142,LTE,Late-demographic dividend,Late-demographic dividend,Late-demographic dividend,V3,,
+143,LTU,Lithuania,Lithuania,Republic of Lithuania,LT,Euro,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2015: 1 euro = 3.45280 Lithuanian litas. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries. Based on data from EUROSTAT, the new reference year is 2010."
+144,LUX,Luxembourg,Luxembourg,Grand Duchy of Luxembourg,LU,Euro,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 40.3399 Luxembourg franc. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+145,LVA,Latvia,Latvia,Republic of Latvia,LV,Euro,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2014: 1 euro = 0.702804 Latvian lats. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries. Based on data from EUROSTAT, the new reference year is 2010."
+146,MAC,"Macao SAR, China","Macao SAR, China",Macao Special Administrative Region of the People's Republic of China,MO,Macao pataca,"On 20 December 1999 China resumed its exercise of sovereignty over Macao. Unless otherwise noted, data for China do not include data for Hong Kong SAR, China; Macao SAR, China; or Taiwan, China."
+147,MAF,St. Martin (French part),St. Martin (French part),St. Martin (French part),MF,Euro,
+148,MAR,Morocco,Morocco,Kingdom of Morocco,MA,Moroccan dirham,
+149,MCO,Monaco,Monaco,Principality of Monaco,MC,Euro,
+150,MDA,Moldova,Moldova,Republic of Moldova,MD,Moldovan leu,"Excluding Transnistria. For 1950-94, World Bank estimates using UN World Population Prospects' growth rates of whole Moldova."
+151,MDG,Madagascar,Madagascar,Republic of Madagascar,MG,Malagasy ariary,
+152,MDV,Maldives,Maldives,Republic of Maldives,MV,Maldivian rufiyaa,
+153,MEA,Middle East & North Africa,Middle East & North Africa,Middle East & North Africa,ZQ,,Middle East and North Africa regional aggregate (includes all income levels).
+154,MEX,Mexico,Mexico,United Mexican States,MX,Mexican peso,
+155,MHL,Marshall Islands,Marshall Islands,Republic of the Marshall Islands,MH,U.S. dollar,Fiscal year ends on September 30; reporting period for national accounts data: FY.
+156,MIC,Middle income,Middle income,Middle income,XP,,"Middle income group aggregate. Middle-income economies are those in which 2020 GNI per capita was between $1,046 and $12,695."
+157,MKD,North Macedonia,North Macedonia,Republic of North Macedonia,MK,Macedonian denar,
+158,MLI,Mali,Mali,Republic of Mali,ML,West African CFA franc,
+159,MLT,Malta,Malta,Republic of Malta,MT,Euro,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2008: 1 euro = 0.4293 Maltese lira. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries. National accounts data source from 1995 to 2015 is Eurostat; prior to 1995 is UN. The new reference year is 2010."
+160,MMR,Myanmar,Myanmar,Republic of the Union of Myanmar,MM,Myanmar kyat,Fiscal year end: September 30; reporting period for national accounts data: FY.
+161,MNA,Middle East & North Africa (excluding high income),Middle East & North Africa (excluding high income),Middle East & North Africa (excluding high income),XQ,,
+162,MNE,Montenegro,Montenegro,Montenegro,ME,Euro,"Montenegro declared independence from Serbia and Montenegro on June 3, 2006. Where available, data for each country are shown separately. However, for Serbia, some indicators continue to include data for Montenegro through 2005."
+163,MNG,Mongolia,Mongolia,Mongolia,MN,Mongolian tugrik,
+164,MNP,Northern Mariana Islands,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,MP,U.S. dollar,
+165,MOZ,Mozambique,Mozambique,Republic of Mozambique,MZ,New Mozambican metical,
+166,MRT,Mauritania,Mauritania,Islamic Republic of Mauritania,MR,Mauritanian ouguiya,National account data were adjusted to reflect the new banknote (1 new ouguiya = 10 old ouguiya)
+167,MUS,Mauritius,Mauritius,Republic of Mauritius,MU,Mauritian rupee,
+168,MWI,Malawi,Malawi,Republic of Malawi,MW,Malawi kwacha,
+169,MYS,Malaysia,Malaysia,Malaysia,MY,Malaysian ringgit,
+170,NAC,North America,North America,North America,XU,,North America regional aggregate. There are no economies in North America classified as low or middle income.
+171,NAM,Namibia,Namibia,Republic of Namibia,NA,Namibian dollar,Fiscal year end: March 31; reporting period for national accounts data: CY.
+172,NCL,New Caledonia,New Caledonia,New Caledonia,NC,CFP franc,
+173,NER,Niger,Niger,Republic of Niger,NE,West African CFA franc,
+174,NGA,Nigeria,Nigeria,Federal Republic of Nigeria,NG,Nigerian naira,
+175,NIC,Nicaragua,Nicaragua,Republic of Nicaragua,NI,Nicaraguan gold cordoba,
+176,NLD,Netherlands,Netherlands,Kingdom of the Netherlands,NL,Euro,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 2.20371 Netherlands guilder. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+177,NOR,Norway,Norway,Kingdom of Norway,NO,Norwegian krone,
+178,NPL,Nepal,Nepal,Nepal,NP,Nepalese rupee,Fiscal year end: July 14; reporting period for national accounts data: FY.
+179,NRU,Nauru,Nauru,Republic of Nauru,NR,Australian dollar,Fiscal year end: June 30; reporting period for national accounts data: FY.
+180,NZL,New Zealand,New Zealand,New Zealand,NZ,New Zealand dollar,Fiscal year end: March 31; reporting period for national accounts data: CY.
+181,OED,OECD members,OECD members,OECD members,OE,,
+182,OMN,Oman,Oman,Sultanate of Oman,OM,Omani rial,
+183,OSS,Other small states,Other small states,Other small states,S4,,
+184,PAK,Pakistan,Pakistan,Islamic Republic of Pakistan,PK,Pakistani rupee,Fiscal year end: June 30; reporting period for national accounts data: FY.
+185,Other Data , 2019","Integrated household survey (IHS), 2014/15",,2010,2006,2018
+186,PAN,Panama,Panama,Republic of Panama,PA,Panamanian balboa,
+187,PER,Peru,Peru,Republic of Peru,PE,Peruvian new sol,
+188,PHL,Philippines,Philippines,Republic of the Philippines,PH,Philippine peso,
+189,PLW,Palau,Palau,Republic of Palau,PW,U.S. dollar,Fiscal year ends on September 30; reporting period for national accounts data: FY.
+190,PNG,Papua New Guinea,Papua New Guinea,The Independent State of Papua New Guinea,PG,Papua New Guinea kina,
+191,POL,Poland,Poland,Republic of Poland,PL,Polish zloty,
+192,PRE,Pre-demographic dividend,Pre-demographic dividend,Pre-demographic dividend,V1,,"Pre-dividend countries are mostly low-income countries, lagging in key human development indicators and with current fertility levels above four births per woman. They face very rapid population growth."
+193,PRI,Puerto Rico,Puerto Rico,Puerto Rico,PR,U.S. dollar,Fiscal year end: June 30; reporting period for national accounts data: FY.
+194,PRK,Dem. People's Rep. Korea,"Korea, Dem. People's Rep.",Democratic People's Republic of Korea,KP,Democratic People's Republic of Korean won,
+195,PRT,Portugal,Portugal,Portuguese Republic,PT,Euro,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 200.482 Portuguese escudo. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+196,PRY,Paraguay,Paraguay,Republic of Paraguay,PY,Paraguayan guarani,
+197,PSE,West Bank and Gaza,West Bank and Gaza,West Bank and Gaza,PS,Israeli new shekel,
+198,PSS,Pacific island small states,Pacific island small states,Pacific island small states,S2,,Pacific island small states aggregate.
+199,PST,Post-demographic dividend,Post-demographic dividend,Post-demographic dividend,V4,,Post-dividend countries are mostly high-income countries where fertility has transitioned below replacement levels.
+200,PYF,French Polynesia,French Polynesia,French Polynesia,PF,CFP franc,
+201,QAT,Qatar,Qatar,State of Qatar,QA,Qatari riyal,
+202,ROU,Romania,Romania,Romania,RO,New Romanian leu,
+203,RUS,Russia,Russian Federation,Russian Federation,RU,Russian ruble,
+204,RWA,Rwanda,Rwanda,Republic of Rwanda,RW,Rwandan franc,
+205,SAS,South Asia,South Asia,South Asia,8S,,
+206,SAU,Saudi Arabia,Saudi Arabia,Kingdom of Saudi Arabia,SA,Saudi Arabian riyal,
+207,SDN,Sudan,Sudan,Republic of the Sudan,SD,Sudanese pound,
+208,SEN,Senegal,Senegal,Republic of Senegal,SN,West African CFA franc,
+209,SGP,Singapore,Singapore,Republic of Singapore,SG,Singapore dollar,Fiscal year end: March 31; reporting period for national accounts data: CY.
+210,SLB,Solomon Islands,Solomon Islands,Solomon Islands,SB,Solomon Islands dollar,
+211,SLE,Sierra Leone,Sierra Leone,Republic of Sierra Leone,SL,Sierra Leonean leone,
+212,SLV,El Salvador,El Salvador,Republic of El Salvador,SV,U.S. dollar,
+213,SMR,San Marino,San Marino,Republic of San Marino,SM,Euro,
+214,SOM,Somalia,Somalia,Somali Democratic Republic,SO,Somali shilling,
+215,SRB,Serbia,Serbia,Republic of Serbia,RS,New Serbian dinar,"Montenegro declared independence from Serbia and Montenegro on June 3, 2006. Where available, data for each country are shown separately. However, for Serbia, some indicators, such as those series for which data appear only for Serbia and not Montenegro--e.g., aid, environment, external debt, balance of payments, various social indicators excluding population--continue to include data for Montenegro through 2005. Moreover, data from 1999 onward for Serbia for most indicators exclude data for Kosovo, 1999 being the year when Kosovo became a territory under international administration pursuant to UN Security Council Resolution 1244 (1999); any exceptions are noted. Kosovo became a World Bank member on June 29, 2009; available data are shown separately for Kosovo. In 2011, the Statistical Office of Serbia improved the methodology of national accounts data for 2003 onward. Specifically, the classification of sectors was revised."
+216,SSA,Sub-Saharan Africa (excluding high income),Sub-Saharan Africa (excluding high income),Sub-Saharan Africa (excluding high income),ZF,,
+217,SSD,South Sudan,South Sudan,Republic of South Sudan,SS,South Sudanese Pound,Fiscal year end: June 30; reporting period for national accounts data: FY.
+218,SSF,Sub-Saharan Africa,Sub-Saharan Africa,Sub-Saharan Africa,ZG,,Sub-Saharan Africa regional aggregate (includes all income levels).
+219,SST,Small states,Small states,Small states,S1,,Small states (members of the Small States Forum) aggregate.
+220,STP,São Tomé and Principe,São Tomé and Principe,Democratic Republic of São Tomé and Principe,ST,São Tomé and Principe dobra,National account data were adjusted to reflect the new banknote (1 new Dobra STN = 1000 old Dobra STD)
+221,SUR,Suriname,Suriname,Republic of Suriname,SR,Suriname dollar,
+222,SVK,Slovak Republic,Slovak Republic,Slovak Republic,SK,Euro,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2009: 1 euro = 30.126 Slovak koruna. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries."
+223,SVN,Slovenia,Slovenia,Republic of Slovenia,SI,Euro,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2007: 1 euro = 239.64 Slovenian tolar. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries."
+224,SWE,Sweden,Sweden,Kingdom of Sweden,SE,Swedish krona,Fiscal year end: June 30; reporting period for national accounts data: CY.
+225,SWZ,Eswatini,Eswatini,Kingdom of Eswatini,SZ,Swazi lilangeni,Fiscal year end: March 31; reporting period for national accounts data: CY. Authorities revised national accounts from 1999 to 2015.
+226,SXM,Sint Maarten (Dutch part),Sint Maarten (Dutch part),Sint Maarten (Dutch part),SX,Netherlands Antillean guilder,
+227,SYC,Seychelles,Seychelles,Republic of Seychelles,SC,Seychelles rupee,
+228,SYR,Syrian Arab Republic,Syrian Arab Republic,Syrian Arab Republic,SY,Syrian pound,
+229,TCA,Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,TC,U.S. dollar,
+230,TCD,Chad,Chad,Republic of Chad,TD,Central African CFA franc,
+231,TEA,East Asia & Pacific (IDA & IBRD),East Asia & Pacific (IDA & IBRD),East Asia & Pacific (IDA & IBRD),T4,,East Asia & Pacific (IDA & IBRD countries) aggregate.
+232,TEC,Europe & Central Asia (IDA & IBRD),Europe & Central Asia (IDA & IBRD),Europe & Central Asia (IDA & IBRD),T7,,Europe & Central Asia (IDA & IBRD countries) aggregate.
+233,TGO,Togo,Togo,Republic of Togo,TG,West African CFA franc,
+234,THA,Thailand,Thailand,Kingdom of Thailand,TH,Thai baht,Fiscal year end: September 30; reporting period for national accounts data: CY.
+235,TJK,Tajikistan,Tajikistan,Republic of Tajikistan,TJ,Tajik somoni,
+236,TKM,Turkmenistan,Turkmenistan,Turkmenistan,TM,New Turkmen manat,
+237,TLA,Latin America & Caribbean (IDA & IBRD),Latin America & Caribbean (IDA & IBRD),Latin America & Caribbean (IDA & IBRD),T2,,Latin America & the Caribbean (IDA & IBRD countries) aggregate.
+238,TLS,Timor-Leste,Timor-Leste,Democratic Republic of Timor-Leste,TL,U.S. dollar,
+239,TMN,Middle East & North Africa (IDA & IBRD),Middle East & North Africa (IDA & IBRD),Middle East & North Africa (IDA & IBRD),T3,,Middle East & North Africa (IDA & IBRD countries) aggregate.
+240,TON,Tonga,Tonga,Kingdom of Tonga,TO,Tongan pa'anga,Fiscal year end: June 30; reporting period for national accounts data: FY.
+241,TSA,South Asia (IDA & IBRD),South Asia (IDA & IBRD),South Asia (IDA & IBRD),T5,,South Asia (IDA & IBRD countries) aggregate.
+242,TSS,Sub-Saharan Africa (IDA & IBRD),Sub-Saharan Africa (IDA & IBRD),Sub-Saharan Africa (IDA & IBRD),T6,,Sub-Saharan Africa (IDA & IBRD countries) aggregate.
+243,TTO,Trinidad and Tobago,Trinidad and Tobago,Republic of Trinidad and Tobago,TT,Trinidad and Tobago dollar,
+244,TUN,Tunisia,Tunisia,Republic of Tunisia,TN,Tunisian dinar,
+245,TUR,Turkey,Turkey,Republic of Turkey,TR,New Turkish lira,
+246,TUV,Tuvalu,Tuvalu,Tuvalu,TV,Australian dollar,
+247,TZA,Tanzania,Tanzania,United Republic of Tanzania,TZ,Tanzanian shilling,
+248,UGA,Uganda,Uganda,Republic of Uganda,UG,Ugandan shilling,Fiscal year end: June 30; reporting period for national accounts data: FY.
+249,UKR,Ukraine,Ukraine,Ukraine,UA,Ukrainian hryvnia,
+250,UMC,Upper middle income,Upper middle income,Upper middle income,XT,,"Upper middle income group aggregate. Upper-middle-income economies are those in which 2020 GNI per capita was between $4,096 and $12,695."
+251,URY,Uruguay,Uruguay,Oriental Republic of Uruguay,UY,Uruguayan peso,
+252,USA,United States,United States,United States of America,US,U.S. dollar,
+253,UZB,Uzbekistan,Uzbekistan,Republic of Uzbekistan,UZ,Uzbek som,
+254,VCT,St. Vincent and the Grenadines,St. Vincent and the Grenadines,St. Vincent and the Grenadines,VC,East Caribbean dollar,
+255,VEN,Venezuela,"Venezuela, RB",República Bolivariana de Venezuela,VE,Venezuelan bolivar fuerte,
+256,VGB,British Virgin Islands,British Virgin Islands,British Virgin Islands,VG,U.S. dollar,
+257,VIR,Virgin Islands,Virgin Islands (U.S.),Virgin Islands of the United States,VI,U.S. dollar,
+258,VNM,Vietnam,Vietnam,Socialist Republic of Vietnam,VN,Vietnamese dong,
+259,VUT,Vanuatu,Vanuatu,Republic of Vanuatu,VU,Vanuatu vatu,
+260,WLD,World,World,World,1W,,World aggregate.
+261,WSM,Samoa,Samoa,Samoa,WS,Samoan tala,Fiscal year ends on June 30; reporting period for national accounts data: FY.
+262,XKX,Kosovo,Kosovo,Republic of Kosovo,XK,Euro,
+263,YEM,Yemen,"Yemen, Rep.",Republic of Yemen,YE,Yemeni rial,
+264,ZAF,South Africa,South Africa,Republic of South Africa,ZA,South African rand,Fiscal year end: March 31; reporting period for national accounts data: CY.
+265,ZMB,Zambia,Zambia,Republic of Zambia,ZM,New Zambian kwacha,"National accounts data were rebased to reflect the January 1, 2013, introduction of the new Zambian kwacha at a rate of 1,000 old kwacha = 1 new kwacha."
+266,ZWE,Zimbabwe,Zimbabwe,Republic of Zimbabwe,ZW,Zimbabwean Dollar,"National Accounts data are in Zimbabwean Dollar (ZWL). Before 2017, one ZWL is set to be equal to one USD."

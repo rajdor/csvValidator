@@ -1,0 +1,48 @@
+{ 
+   "loglevel":"INFO"
+  ,"csvspec": {
+        "allow_empty":false
+       ,"uniqueness" : ["foo", "bar"]        
+       ,"dialect" : {
+            "delimeter": ","
+            ,"doublequote": false
+            ,"escapechar": null
+            ,"lineterminator": "'\\r\\n'"
+            ,"quotechar": "\""
+            ,"quoting": 0
+            ,"skipinitialspace": false
+            ,"strict": null
+            ,"has_header": true
+       }
+       ,"columns": [
+                    {"colorder": "0"
+                    ,"name"  : "foo"
+                    ,"type"  : "string"
+                    ,"domain" : ["fred","wilma","barney"]
+                    }
+                   ,{"colorder": "1"
+                    ,"name"  : "bar"
+                    ,"type"  : "integer"
+                   }
+                   ,{"colorder": "2"
+                    ,"name"  : "fizz"
+                    ,"type"  : "float"
+                   }                   
+                   ,{"colorder": "3"
+                    ,"name"  : "buzz"
+                    ,"type"  : "date"
+                    ,"format": "%d-%m-%Y"
+                   }                                   
+                   ,{"colorder": "4"
+                    ,"name"  : "elvis"
+                    ,"type"  : "time"
+                    ,"format": "%H:%M:%S"
+                   }                   
+                   ,{"colorder": "5"
+                    ,"name"  : "presley"
+                    ,"type"  : "timestamp"
+                    ,"format": "%d-%m-%Y %H:%M:%S"
+                   }                                      
+          ]
+       }  
+}
